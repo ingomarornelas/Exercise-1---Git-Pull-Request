@@ -12,9 +12,7 @@ namespace ConsoleApp1
     {
         Console.WriteLine("Hello, world!");
         Console.WriteLine("Hello, world!");
-        Console.WriteLine("Hello, world!");
-        Console.WriteLine("Hello, world!");
-        Console.WriteLine("Hello, world!");
+        Console.WriteLine("Hello, world Mexico!");
         Console.ReadLine();
     }
     }
